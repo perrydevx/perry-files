@@ -43,4 +43,4 @@ vi .zshrc and modify plugins=()
 ```
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```	
-## Restart iTerm2, enjoy!!
+## Restart iTerm2, enjoy!! :beers:
