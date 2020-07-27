@@ -17,3 +17,5 @@
 5. Edit your ~/.zshrc and set ZSH_THEME="powerlevel10k/powerlevel10k"
 
 6. restart iterm2
+
+![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
