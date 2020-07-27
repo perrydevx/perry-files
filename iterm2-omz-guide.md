@@ -1,5 +1,6 @@
 # Setup iterm2 and oh-my-zsh
 
+Be cool and add +100pts coding skills by making your terminal look like this!
 ![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
 
 1. **Install iterm2** 
