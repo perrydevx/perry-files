@@ -1,5 +1,7 @@
 # Setup iterm2 and oh-my-zsh
 
+![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
+
 1. install iterm2: 
 	- brew cask install iterm2
 
@@ -16,6 +18,17 @@
 
 5. Edit your ~/.zshrc and set ZSH_THEME="powerlevel10k/powerlevel10k"
 
-6. restart iterm2
+6. After setting powerlevel10k as zsh_theme, restart iterm2, wizard will guide you for all UI settings
 
-![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
+7. restart iterm2
+
+##Additional plugins:
+
+- zsh-autosuggestions
+	- git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+
+- zsh-syntax-highlighting
+	- git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+
+- Enable plugins, vi .zshrc and modify plugins=() line
+	- plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
