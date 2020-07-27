@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
 
-1.**Install iterm2** 
+1. **Install iterm2** 
 ```
 brew cask install iterm2
 ```
@@ -31,11 +31,11 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 ## Additional plugins:
 
-**- Download zsh-autosuggestions**
+- **Download zsh-autosuggestions**
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
--**Download zsh-syntax-highlighting**
+- **Download zsh-syntax-highlighting**
 ```
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 ```
