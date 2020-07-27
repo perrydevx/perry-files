@@ -41,7 +41,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 ```
 - **Enable plugins**
 
-    - vi .zshrc and modify plugins=()
+vi .zshrc and modify plugins=()
 ```
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```	
