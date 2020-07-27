@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
 
-1. install iterm2: 
+1. Install iterm2: 
 	- brew cask install iterm2
 
 2. Get the iTerm color settings
@@ -10,10 +10,10 @@
 	https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors
 	- Apply through iTerm → preferences → profiles → colors → load presets
 
-3. install oh-my-zsh: 
+3. Install oh-my-zsh: 
 	- sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
-4. install pk10
+4. Install pk10
 	- git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
 
 5. Edit your ~/.zshrc and set ZSH_THEME="powerlevel10k/powerlevel10k"
@@ -22,13 +22,15 @@
 
 7. restart iterm2
 
-##Additional plugins:
+## Additional plugins:
 
-- zsh-autosuggestions
+- Download zsh-autosuggestions
 	- git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 
-- zsh-syntax-highlighting
+- Download zsh-syntax-highlighting
 	- git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 
 - Enable plugins, vi .zshrc and modify plugins=() line
 	- plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+	
+## Restart iTerm2, enjoy!!
