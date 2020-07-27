@@ -3,8 +3,9 @@
 ![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
 
 1. Install iterm2: 
-	- brew cask install iterm2
-
+```
+brew cask install iterm2
+```
 2. Get the iTerm color settings
 	- Solarized Dark theme 
 	https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors
