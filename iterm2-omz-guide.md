@@ -4,7 +4,8 @@
 	- brew cask install iterm2
 
 2. Get the iTerm color settings
-	- Solarized Dark theme (patched version to fix the bright black value) https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors
+	- Solarized Dark theme (patched version to fix the bright black value) 
+	https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors
 	- Apply them in iTerm through iTerm → preferences → profiles → colors → load presets
 
 3. install oh-my-zsh: 
