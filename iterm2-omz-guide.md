@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/perrydevx/perry-files/blob/master/iterm2-omz.png)
 
-1. Install iterm2: 
+**1. Install iterm2** 
 ```
 brew cask install iterm2
 ```
