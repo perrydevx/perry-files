@@ -7,11 +7,11 @@
 ```
 brew cask install iterm2
 ```
-2. ~~**Get the iTerm color settings**~~  Select "Solarized Dark" from colors presets
-    - ~~Solarized Dark theme, save the file "Solarized Dark - Patched.itermcolors" and double click to load in iTerm~~ 
-    ```
-    https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors
-    ```
+2. **Get the iTerm color settings**
+    - Solarized Dark theme, save the file "Solarized Dark - Patched.itermcolors" and double click to load in iTerm
+ 
+    [Solarized Dark][https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors]
+   
     - Apply through iTerm → preferences → profiles → colors → color presets (you can delete the file after loading)
 
 3. **Install oh-my-zsh**
