@@ -7,7 +7,7 @@
 ```
 brew cask install iterm2
 ```
-2. **Get the iTerm color settings**
+2. ~~**Get the iTerm color settings**~~ Just select Solarized Darkf from colors presets
     - Solarized Dark theme, save the file "Solarized Dark - Patched.itermcolors" and double click to load in iTerm 
     ```
     https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors
