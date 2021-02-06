@@ -24,7 +24,7 @@ git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerl
 ```
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
-6. **After setting powerlevel10k as zsh_theme, restart iterm2, wizard will guide you for all UI settings**
+6. **After setting powerlevel10k as zsh_theme, restart iterm2, wizard will guide you through UI settings**
 
 
 ## Additional plugins
