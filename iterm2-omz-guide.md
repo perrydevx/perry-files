@@ -26,7 +26,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 6. **After setting powerlevel10k as zsh_theme, restart iterm2, wizard will guide you through UI settings**
 
-To reset settings 
+    - To reset settings 
 ```
 p10k configure
 ```
